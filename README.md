@@ -1,5 +1,7 @@
-### Hi there 👋
+ Olá 
 
 -Estou estudando no Alura
+
 -Estou desenvolvendo minhas habilidades no JavaScript
--Quero me matar
+
+-Estudo no Colégio Estadual do Paraná
